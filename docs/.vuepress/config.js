@@ -9,7 +9,7 @@ module.exports = {
   ],
   dest: './docs/.vuepress/dist',
   ga: '',
-  base: '/blog/',
+  base: '/aBianBlog/',
   evergreen: true,
   themeConfig: {
     logo: '/images/logo.png',
