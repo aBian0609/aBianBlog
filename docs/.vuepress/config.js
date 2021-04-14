@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Hello aBian',
-  description: 'Hello, my friend!',
+  title: 'aBianBlog',
+  description: 'Welcome to my blog',
   head: [
     ['link', {
       rel: 'icon',
@@ -12,7 +12,7 @@ module.exports = {
   base: '/aBianBlog/',
   evergreen: true,
   themeConfig: {
-    logo: '/images/logo.png',
+    // logo: '/images/logo.png',
     nav: [{
         text: 'Home',
         link: '/'
