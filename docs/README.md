@@ -2,10 +2,10 @@
 home: true
 heroImage: /favicon.ico
 actionText: Study →
-actionLink: /guide/
+actionLink: /article/
 features:
 - title: 文章
-  details: 分享关于前端的技术文章以及一些自己工作上的收获经验
+  details: 分享关于前端的技术文章
 - title: 微语
   details: 分享生活上的琐事照片
 - title: 关于

@@ -1,6 +1,6 @@
 module.exports = {
   title: 'aBianBlog',
-  description: 'Welcome to my blog',
+  description: '欢迎来到我的博客',
   head: [
     ['link', {
       rel: 'icon',
@@ -14,18 +14,21 @@ module.exports = {
   themeConfig: {
     // logo: '/images/logo.png',
     nav: [{
-        text: 'Home',
+        text: '首页',
         link: '/'
       },
       {
-        text: 'Guide',
-        link: '/guide/',
-
+        text: '文章',
+        link: '/article/',
+      },
+      {
+        text: '微语',
+        link: '/whispers/',
       },
       {
         text: 'Languages',
         items: [{
-            text: 'Chinese',
+            text: '中文',
             link: '/language/chinese'
           },
           {
@@ -35,8 +38,8 @@ module.exports = {
         ]
       },
       {
-        text: 'External',
-        link: 'https://www.baidu.com'
+        text: '微博',
+        link: 'https://weibo.com/u/5939146360'
       },
     ]
   }

@@ -1,0 +1,2 @@
+---
+actionLink: /whispers/
