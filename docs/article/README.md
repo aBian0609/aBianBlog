@@ -1,2 +1,2 @@
 ---
-actionLink: /guide/
+actionLink: /article/
